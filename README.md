@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! My name is Ashish Kumar and I'm a Final year B. Tech. - CSE (Specialized in Data Science) student and I aspire to be a Data Scientist or an ML Engineer.</h2>
+<h2 align="left">Hey 👋! नमस्ते. Myself Ashish Kumar. I am a Software Developer (DOTNET, MySQL)</h2>
 
 ###
 
